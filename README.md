@@ -4,7 +4,7 @@ By: Kyler Conant
 
 ### This GitHub contains comments, code, screenshots of results, and pictures used for this program.
 -----------------------------------------------------------------------------------
-#####This model uses only 3 classifications - dog, rabbit, and bird. It should be able to tell from any picture submitted, if it is not any of the classifications it will say "I can't identify any rabbits, dogs, or birds in the image."
+##### This model uses only 3 classifications - dog, rabbit, and bird. It should be able to tell from any picture submitted, if it is not any of the classifications it will say "I can't identify any rabbits, dogs, or birds in the image."
 -----------------------------------------------------------------------------------
 ***Documents you might need:***
   - Docs for OpenAI API: https://platform.openai.com/docs/overview
